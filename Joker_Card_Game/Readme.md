@@ -12,7 +12,6 @@ This project is a Python implementation of a card game called "JOKER". The game 
 - The player to the dealer's left leads the first trick, and the suit of the lead card determines the suit that must be followed. If a player cannot follow suit, they may play a trump suit card or a Joker card.
 - Points are awarded based on the player's bid and the number of tricks won.
 - The player with the highest cumulative score across all sets wins the game.
--
 
 ## Project Structure
 
